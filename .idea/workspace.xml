@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82ac1ba2-89fd-4580-82d8-c029d0e1e6e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/com.p2p.parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.p2p.parent/pom.xml" afterDir="false" />
     </list>
+    <list default="true" id="82ac1ba2-89fd-4580-82d8-c029d0e1e6e2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/com.p2p.parent/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com.p2p.parent/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5515">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="-4342">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -59,9 +59,9 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=local" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="309" />
-    <option name="y" value="29" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="208" />
+    <option name="y" value="58" />
     <option name="width" value="1468" />
     <option name="height" value="971" />
   </component>
@@ -120,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576137133558</updated>
-      <workItem from="1576137136282" duration="1194000" />
+      <workItem from="1576137136282" duration="1569000" />
     </task>
     <task id="LOCAL-00001" summary="delete annotation">
       <created>1576137830487</created>
@@ -129,14 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576137830487</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="delete annotation">
+      <created>1576138334929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576138334929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1194000" />
+    <option name="totallyTimeSpent" value="1569000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="309" y="29" width="1468" height="971" extended-state="0" />
+    <frame x="309" y="29" width="1468" height="971" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -179,8 +186,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/com.p2p.parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5515">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="-4342">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
