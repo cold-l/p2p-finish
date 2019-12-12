@@ -8,12 +8,6 @@
     <artifactId>com.p2p.parent</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <!--
-        Maven多模块管理，父工程需要遵循以下两点要求：
-        1.packaging标签的文本内容必须为pom
-        2.src文件夹删除掉
-    -->
-
     <packaging>pom</packaging>
 
     <properties>
@@ -259,7 +253,7 @@
         依赖冲突：在同一个项目中引入了同一个依赖的不同版本的jar
     -->
 
-    
+
 
 
     <build>
