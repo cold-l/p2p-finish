@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-      <change beforePath="$PROJECT_DIR$/com.p2p.parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.p2p.parent/pom.xml" afterDir="false" />
-    </list>
     <list default="true" id="82ac1ba2-89fd-4580-82d8-c029d0e1e6e2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/com.p2p.parent/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
